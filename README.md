@@ -5,7 +5,7 @@ in the fourth semester.
 
 ## OVERVIEW
 
-Here is a overview the codes in this repository
+Here is an overview of the codes in this repository
 
   - Implementation of Binary Search Trees, Splay Trees and Graph Data Structures
   - Implementation of Travelling Salesman problem using Depth First and Breadth First Traversals
