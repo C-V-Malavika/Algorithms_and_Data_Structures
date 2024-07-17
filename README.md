@@ -15,4 +15,4 @@ Here is an overview of the codes in this repository
   - Implementation of N-Queens, Sum of Subsets and Hamiltonian Cycle problems using Backtracking
   - Implementation of Kruskals Minimum Spanning Tree algorithm
   - Implementation of Stable Marriage and Max Flow problems using Iterative Improvement
-  - Implementation of Travelling Salesman problem using Approximation Algorithm
+  - Implementation of Travelling Salesman and 0/1 Knapsack problem using Approximation Algorithm
